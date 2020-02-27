@@ -1,9 +1,11 @@
 # quartz-springboot-mysql
+
 Proof of concept for persisted Quartz using Spring Boot and MySQL
 
 Based on davidkiss/spring-boot-quartz-demo
 
 ##How to run
+
 1. Create "quartz" database in MySQL.
 2. Set MySQL connection credentials in application-dev.properties
 3. Run App
